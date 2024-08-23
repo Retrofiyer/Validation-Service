@@ -4,7 +4,7 @@
 
 ## About The Project
 
-The CardValidation Service is a microservice designed to verify the validity of credit card numbers using the Luhn algorithm. This service is essential for applications that require validation of credit card numbers before processing payments or storing card information. It is built with simplicity and security in mind, ensuring that only valid card numbers are accepted.
+The Card Validation Service is a microservice designed to verify the validity of credit card numbers using the Luhn algorithm. This service is essential for applications that require validation of credit card numbers before processing payments or storing card information. It is built with simplicity and security in mind, ensuring that only valid card numbers are accepted.
 
 ## Table of Contents
 
