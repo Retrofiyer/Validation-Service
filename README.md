@@ -32,7 +32,7 @@ The Card Validation Service is a microservice designed to verify the validity of
 
 ## Overview
 
-The CardValidation Service provides an API to validate credit card numbers through the Luhn algorithm. This service is designed to be simple and reliable, ensuring that only valid credit card numbers are processed. It is built using Ruby and GraphQL, allowing for easy integration with various applications.
+The Card Validation Service provides an API to validate credit card numbers through the Luhn algorithm. This service is designed to be simple and reliable, ensuring that only valid credit card numbers are processed. It is built using Ruby and GraphQL, allowing for easy integration with various applications.
 
 ## Features
 
